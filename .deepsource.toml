@@ -1,4 +1,13 @@
 version = 1
 
 [[analyzers]]
+name = "shell"
+
+[[analyzers]]
+name = "sql"
+
+[[analyzers]]
+name = "cxx"
+
+[[analyzers]]
 name = "swift"
